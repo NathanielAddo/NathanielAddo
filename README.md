@@ -1,10 +1,10 @@
 Hi 👋 My name is Nathaniel Ofosu-Ansah Addo
 ===========================================
 
-Web developer and designer
+Web and mobile developer
 --------------------------
 
-Passionate web developer with a focus on crafting responsive, user-friendly websites and applications. Proficient in HTML, CSS, JavaScript, and various front-end frameworks. Dedicated to clean code, accessibility, and staying current with industry trends. Check out my repositories for innovative projects, insightful code snippets, and collaborative contributions to open-source projects.
+As a versatile web and mobile developer, I specialize in building dynamic, user-centric applications with a keen focus on performance and modern design. My skill set includes HTML, CSS, JavaScript, ReactJS, Next.js, TailwindCSS, Figma, and Canva for front-end development, alongside Express.js and MongoDB for back-end solutions. Additionally, I have experience in React Native for cross-platform mobile app development. I am passionate about writing clean, maintainable code and am committed to accessibility and the latest industry practices. Explore my repositories to see innovative projects, detailed code snippets, and my contributions to open-source initiatives
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [nathanieloaaddo@gmail.com](mailto:nathanieloaaddo@gmail.com)
