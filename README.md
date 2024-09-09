@@ -1,14 +1,14 @@
 Hi 👋 My name is Nathaniel Ofosu-Ansah Addo
 ===========================================
 
-Web and mobile developer
+Web, mobile app, and AI developer
 --------------------------
 
-As a versatile web and mobile developer, I specialize in building dynamic, user-centric applications with a keen focus on performance and modern design. My skill set includes HTML, CSS, JavaScript, ReactJS, Next.js, TailwindCSS, Figma, and Canva for front-end development, alongside Express.js and MongoDB for back-end solutions. Additionally, I have experience in React Native for cross-platform mobile app development. I am passionate about writing clean, maintainable code and am committed to accessibility and the latest industry practices. Explore my repositories to see innovative projects, detailed code snippets, and my contributions to open-source initiatives
+As a versatile web and mobile developer with expertise in AI and AI services like Azure and Rasa, I specialize in building dynamic, user-centric applications with a focus on performance, modern design, and intelligent solutions. My skill set includes HTML, CSS, JavaScript, ReactJS, Next.js, TailwindCSS, Figma, and Canva for front-end development, alongside Express.js and MongoDB for back-end solutions. Additionally, I have experience in React Native for cross-platform mobile app development and am passionate about writing clean, maintainable code. Committed to accessibility, cutting-edge industry practices, and AI-powered experiences, I leverage tools like Azure AI and Rasa to create innovative projects. Explore my repositories to see my contributions to open-source initiatives and AI-driven applications.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [nathanieloaaddo@gmail.com](mailto:nathanieloaaddo@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Electron
 * 🤝  I'm open to collaborating on Front-end development, back-end development, UI/UX design, web app development, responsive design, and open-source initiatives.
 
 ### Skills
